@@ -41,10 +41,10 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 class AllActions(object):
     def initializer(self,useraccount):
-        consumerKey = 'CAzP9x3jI0FU4cEkICDdE6axb'
-        consumerSecret = 'sdYzBHoUme9u7Pw8j454ncoV1DfbhIFxQs3ELbPVsiyV131zKg'
-        accessToken = '1314246151197999105-oiKvQdKNW2n7VN9TAYPmhso8xHhV1d'
-        accessTokenSecret = 'RZW9guSaFTaUJjHFlDE86rN1Q5aJSea6Fd7wOOl38m5RY'
+        consumerKey = #confidential
+        consumerSecret = #confidential
+        accessToken = #confidential 
+        accessTokenSecret =#confidential 
         # Create the authentication object
         authenticate = tweepy.OAuthHandler(consumerKey, consumerSecret)
         # Set the access token and access token secret
