@@ -1,2 +1,3 @@
 # Text-Mining-MLModel
-Text Analysis, NLP
+Text Analysis, NLP model 
+updated version: https://minemytexts.herokuapp.com/
